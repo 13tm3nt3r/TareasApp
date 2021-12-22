@@ -1,7 +1,9 @@
 # TareasApp
 Aplicación CRUD utilizando el stack MEAN (MongoDB, Express, Angular, Node). 
 
-Trabajo de Tecnologías y Sistemas Web (4º curso esiiab) realizado por Laura Estop, Laura Rojas y Yasín Muñoz.
+Trabajo de Tecnologías y Sistemas Web.
+
+Autores: Laura Estop, Laura Rojas y Yasín Muñoz.
 ## Common setup
 
 Clone the repo 
