@@ -9,7 +9,7 @@ Autores: Laura Estop, Laura Rojas y Yasín Muñoz.
 Clone the repo 
 
 ```bash
-git clone https://github.com/yasinmunoz/tareas-angular.git
+git clone https://github.com/13tm3nt3r/tareas-angular.git
 ```
 install the dependencies for the server.
 
